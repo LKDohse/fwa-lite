@@ -1,0 +1,37 @@
+﻿.mainCarouselImage {
+}
+
+#carousel-holder {
+    /*background-color: mediumpurple;*/
+    background: linear-gradient(to right, #24123d, #703bb5);
+}
+
+#left-blurb {
+    background-color: #282828;
+}
+
+#main-content {
+    background-color: mediumpurple;
+}
+
+    #main-content h1 {
+        color: white;
+    }
+
+    #main-content .header-container {
+        background-color: #282828;
+    }
+
+.class-description {
+}
+
+#footer {
+    background-color: #282828;
+    color: #FFFFFF;
+    min-height: 200px;
+}
+
+    #footer img {
+          max-width: 15%; 
+          height: auto;
+    }
